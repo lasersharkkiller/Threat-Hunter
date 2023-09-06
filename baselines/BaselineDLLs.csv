@@ -1,0 +1,12 @@
+ModuleName,FileName,Size,Company,Description,ISOSBinary,SignatureType,Status,Subject,Issuer,SerialNumber,NotBefore,NotAfter,ThumbPrint
+7-zip.dll,C:\Program Files\7-Zip\7-zip.dll,108,Igor Pavlov,7-Zip Shell Extension,FALSE,None,NotSigned,,,,,,
+netstandard.ni.dll,MULTIPLE,152,Microsoft Corporation,netstandard,FALSE,None,NotSigned,,,,,,
+SMDiagnostics.ni.dll,C:\Windows\assembly\NativeImages_v4.0.30319_64\SMDiagnostics\b0309b7c931f72f6a6cd04f5b8dc001f\SMDiagnostics.ni.dll,148,Microsoft Corporation,SMDiagnostics.dll,FALSE,None,NotSigned,,,,,,
+System.Configuration.ni.dll,C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Configuration\07299d4bc483f6823301af152ff4b6dc\System.Configuration.ni.dll,1228,Microsoft Corporation,System.Configuration.dll,FALSE,None,NotSigned,,,,,,
+System.Core.ni.dll,C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Core\841bee599ad49bbc18370bfdbb8ca8d8\System.Core.ni.dll,10708,Microsoft Corporation,.NET Framework,FALSE,None,NotSigned,,,,,,
+System.Data.ni.dll,C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Data\87be18cd9530de66b4851d4ca9a98c9f\System.Data.ni.dll,9700,Microsoft Corporation,.NET Framework,FALSE,None,NotSigned,,,,,,
+System.ni.dll,C:\Windows\assembly\NativeImages_v4.0.30319_64\System\de663b7cf66f2cb480f2fd5556f83cd4\System.ni.dll,12740,Microsoft Corporation,.NET Framework,FALSE,None,NotSigned,,,,,,
+System.Numerics.ni.dll,C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Numerics\9f57fdea856d8c270d75b8839914c667\System.Numerics.ni.dll,324,Microsoft Corporation,.NET Framework,FALSE,None,NotSigned,,,,,,
+System.Runtime.Serialization.ni.dll,C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Runteb92aa12#\1b8cc1dcd789ca197ffd9a99a5c8288c\System.Runtime.Serialization.ni.dll,3344,Microsoft Corporation,System.Runtime.Serialization.dll,FALSE,None,NotSigned,,,,,,
+System.ServiceProcess.ni.dll,C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Serv759bfb78#\cf807ab1b038435fbf19a63406cbae94\System.ServiceProcess.ni.dll,280,Microsoft Corporation,.NET Framework,FALSE,None,NotSigned,,,,,,
+System.Xml.ni.dll,C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Xml\7ed1acd9bc06362c46e06682b776f46b\System.Xml.ni.dll,8876,Microsoft Corporation,.NET Framework,FALSE,None,NotSigned,,,,,,
