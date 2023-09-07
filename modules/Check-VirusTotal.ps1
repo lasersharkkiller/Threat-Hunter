@@ -1,6 +1,6 @@
 Function Check-VirusTotal {
     #Set API Key
-    $VTapikey = "d6279cc78c23bc5ab8db6d4cec65243b956ffdbab10b4d0e6d05618bbe0bf91f"
+    $VTapikey = "enter"
 
     $fileHash = Get-FileHash ($DLLPath) | Select-Object -ExpandProperty Hash
     $uri = "https://www.virustotal.com/vtapi/v2/file/report?apikey=$VTapikey&resource=$fileHash"
