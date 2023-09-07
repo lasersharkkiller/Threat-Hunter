@@ -22,7 +22,7 @@ Import-Module -Name 7Zip4Powershell
 ###############################
 
 ###ThreatGrid API key
-$key = "f9eunrntb3nss418lqo6o57nk1"
+$key = "enter"
 $password = "infected"
 #$files = Get-ChildItem "C:\bits\" -Filter *.zip
 
